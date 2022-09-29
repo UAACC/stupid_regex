@@ -1,17 +1,3 @@
-# Intro to NLP - Assignment 1
-
-## Team
-|Student name| CCID |
-|------------|------|
-|dongheng li  |1500760      |
-
-
-## TODOs
-
-In this file you **must**:
-- [ ] Fill out the team table above. Please note that CCID is **different** from your student number.
-- [ ] Acknowledge all resources consulted (discussions, texts, urls, etc.) while working on an assignment. Non-detailed oral discussion with others is permitted as long as any such discussion is summarized and acknowledged by all parties.
-- [ ] Provide clear installation and execution instructions that TAs must follow to execute your code.
 ## Installation
 Please use 'pip' instead of 'pip3', pip means using the current python, so make sure your python version is 3.7 or newer.
 
